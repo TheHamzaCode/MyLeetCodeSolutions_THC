@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0092-reverse-linked-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
