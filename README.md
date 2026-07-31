@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0707-design-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/1019-next-greater-node-in-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0234-palindrome-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/1019-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -33,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0142-linked-list-cycle-ii) |
+## Array
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/1019-next-greater-node-in-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
