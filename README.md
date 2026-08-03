@@ -40,9 +40,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0078-subsets) |
 | [1019-next-greater-node-in-linked-list](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/1019-next-greater-node-in-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
