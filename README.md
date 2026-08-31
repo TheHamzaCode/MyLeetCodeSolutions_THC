@@ -37,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0142-linked-list-cycle-ii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Array
 |  |
 | ------- |
 | [0078-subsets](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0078-subsets) |
 | [1019-next-greater-node-in-linked-list](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/1019-next-greater-node-in-linked-list) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0796-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
