@@ -14,9 +14,7 @@ public:
                 low++;
             } 
         }
-        if (res==INT_MAX){
-            res=0;
-        }
+        if (res==INT_MAX) res=0;
         return res;
     }
 };
