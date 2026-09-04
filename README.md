@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -87,4 +88,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0209-minimum-size-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
