@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0142-linked-list-cycle-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Array
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
