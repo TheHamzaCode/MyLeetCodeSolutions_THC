@@ -8,7 +8,6 @@ public:
             res.push_back(singleList);
             return res;
         }
-
         for (int i = 0; i < nums.size(); i++) {
             int n = nums[i];
             vector<int> remainingNums;
@@ -17,11 +16,10 @@ public:
                     remainingNums.push_back(nums[j]);
                 }
             }
-            
             vector<vector<int>> perms = permute(remainingNums);
             for (vector<int> p : perms) {
-                p.insert(p.begin(), n);  // Insert n at the beginning of the permutation
-                res.push_back(p);  // Append the modified permutation to the result
+                p.insert(p.begin(), n);  
+                res.push_back(p);  
             }
         }
         
