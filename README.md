@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0904-fruit-into-baskets) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
