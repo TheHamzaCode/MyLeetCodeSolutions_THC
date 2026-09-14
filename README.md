@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0032-longest-valid-parentheses](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0424-longest-repeating-character-replacement) |
