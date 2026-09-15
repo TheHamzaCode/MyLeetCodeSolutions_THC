@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0904-fruit-into-baskets) |
 | [1019-next-greater-node-in-linked-list](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/1019-next-greater-node-in-linked-list) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0724-find-pivot-index) |
 ## Math
 |  |
 | ------- |
