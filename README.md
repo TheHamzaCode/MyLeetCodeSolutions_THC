@@ -126,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0067-add-binary) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
