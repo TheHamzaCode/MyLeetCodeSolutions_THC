@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0142-linked-list-cycle-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0046-permutations) |
