@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0217-contains-duplicate) |
 | [0724-find-pivot-index](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0904-fruit-into-baskets) |
 | [1019-next-greater-node-in-linked-list](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/1019-next-greater-node-in-linked-list) |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1148-article-views-i](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/1683-invalid-tweets) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
