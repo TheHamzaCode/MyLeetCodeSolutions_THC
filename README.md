@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0005-longest-palindromic-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0067-add-binary) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0032-longest-valid-parentheses) |
 | [0509-fibonacci-number](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0217-contains-duplicate) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/TheHamzaCode/MyLeetCodeSolutions_THC/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
